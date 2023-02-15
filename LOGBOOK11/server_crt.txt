@@ -1,0 +1,75 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4097 (0x1001)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN = www.modelCA.com, O = Model CA LTD., C = US
+        Validity
+            Not Before: Dec  9 12:20:59 2022 GMT
+            Not After : Dec  6 12:20:59 2032 GMT
+        Subject: C = US, O = Bank32 Inc., CN = www.bank32.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:cd:0d:81:76:f5:0c:44:05:a4:66:57:41:85:8a:
+                    53:74:33:b9:79:1a:d4:fe:75:bf:6f:c2:21:a3:0b:
+                    1e:f9:29:d3:f5:7a:22:5c:d8:bf:24:3b:0c:f5:05:
+                    6e:d2:19:b2:69:01:4f:31:05:41:33:6e:9c:20:04:
+                    23:4c:b2:48:96:51:4a:9a:1e:db:8e:b2:2c:ca:36:
+                    09:4a:de:46:61:ba:ce:e9:35:4b:39:89:32:10:9f:
+                    2d:46:a4:41:36:97:1c:a5:d4:bd:8c:01:ba:7d:ad:
+                    19:d7:af:d1:fe:4f:e6:6b:84:df:03:e9:25:7b:95:
+                    54:c1:ca:f3:ed:c1:75:61:d7:5f:f6:8c:43:21:8f:
+                    89:e6:f2:2a:bb:bd:04:73:cb:23:77:af:d2:a5:5c:
+                    8d:1c:5d:7b:6b:da:b9:92:1f:7f:e3:d3:70:84:b8:
+                    e6:00:b2:64:7a:df:72:85:75:bf:e3:72:19:ae:19:
+                    37:92:be:a2:eb:c7:1d:97:b0:b3:5a:4f:c9:38:03:
+                    25:25:4b:b7:ed:57:2c:19:c2:b9:ac:a0:a9:7b:3d:
+                    f3:59:48:cc:0f:fc:e9:95:a6:c0:ee:65:92:8c:81:
+                    a6:fe:89:76:60:56:87:93:82:78:91:37:6f:61:10:
+                    d0:de:62:5d:33:69:0b:b1:0b:cc:7e:9b:4e:3f:41:
+                    08:b3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints:
+                CA:FALSE
+            Netscape Comment:
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier:
+                C4:42:55:B4:A0:2F:E4:AD:02:E6:A7:A2:C5:23:00:86:FD:2D:63:09
+            X509v3 Authority Key Identifier:
+                keyid:0E:27:FB:65:A2:D1:EA:B6:BD:DA:93:A5:11:D2:88:78:7F:2B:68:F5
+
+            X509v3 Subject Alternative Name:
+                DNS:www.bank32.com, DNS:www.bank32A.com, DNS:www.bank32B.com
+    Signature Algorithm: sha256WithRSAEncryption
+         02:ac:2a:bc:10:de:6e:bd:2c:15:ec:a6:60:2e:76:a3:d4:95:
+         0f:4b:49:ac:70:f2:c8:8d:4f:3c:00:1f:f6:60:b6:a1:3e:16:
+         64:1a:3e:5b:1d:20:c2:9d:34:43:ef:fb:a9:c8:3f:60:6a:e4:
+         60:0d:d2:57:cf:73:48:a7:7f:db:dd:b6:86:e0:df:0c:cd:1e:
+         2f:fe:d9:a2:61:8a:a3:ae:3b:19:b3:23:a1:79:44:d6:7a:02:
+         4e:cb:6f:5d:cb:b4:39:22:29:87:af:00:4e:5a:47:d7:42:b5:
+         de:5c:7d:67:2e:0f:65:cd:ed:c0:20:45:69:bb:29:53:e0:d9:
+         93:c5:b7:01:9a:ac:44:e1:9e:e7:fb:27:a5:b0:1c:a3:12:53:
+         b4:5c:8d:9e:f3:0a:28:bc:db:5b:e2:0f:9a:55:11:7f:70:5a:
+         20:85:0e:70:0b:c0:cf:e0:71:a5:a9:3b:ff:8f:03:df:a5:14:
+         ef:f9:44:46:ef:bc:8a:0a:bc:27:e2:98:6d:20:6e:e7:aa:eb:
+         04:62:3a:55:e6:ad:c2:d6:73:43:51:4b:95:a0:d1:2f:1a:e4:
+         f8:28:97:51:5a:0f:75:50:55:53:f0:1b:78:b4:fd:79:9f:ba:
+         ce:93:5a:00:ea:49:a4:cc:ca:2b:82:6b:d6:d3:a8:7c:ed:e4:
+         54:34:70:6e:3d:9e:a4:7d:9f:e9:2e:03:7d:1a:31:2e:29:60:
+         c9:70:f3:6e:2e:14:52:47:5a:a3:29:db:c5:0b:1d:6b:03:a5:
+         a7:ea:7e:63:17:ae:0a:c8:4b:d2:cb:5f:e8:2a:12:9d:f2:bf:
+         6b:bf:b4:ea:88:d0:3b:77:3f:4f:7c:cd:8a:0d:d9:54:f2:ad:
+         b5:7b:62:d3:0b:f2:05:37:c2:4f:ad:1d:bf:77:c5:41:c0:eb:
+         68:5e:4e:e8:a9:b7:c1:e8:5c:8d:b8:bf:d0:df:d0:6c:15:fb:
+         7a:4d:d5:76:52:fa:f5:0a:09:3a:e9:62:ae:ed:88:3c:96:a4:
+         ad:4b:97:ab:10:ce:31:67:6e:2b:22:9a:7a:ee:b2:34:43:16:
+         55:fe:ca:2c:9c:bf:1a:5e:be:65:5f:58:fb:28:5a:0a:6f:20:
+         65:32:3f:8e:b2:9f:3b:0a:6f:ea:dd:d5:7a:1b:0e:28:35:5c:
+         d8:93:a4:e3:9a:fe:d5:e9:58:02:c6:d2:f4:63:6a:9a:2c:a4:
+         f7:2b:c1:7d:28:c6:54:68:2f:a0:79:06:75:c0:cc:3b:8c:63:
+         f8:cb:39:c2:09:48:b6:92:39:5b:9e:42:d5:8d:8b:f7:ed:e4:
+         3f:61:10:d7:1c:27:33:81:9f:fc:25:8a:bc:00:63:8b:a6:39:
+         70:23:4a:3f:ce:13:4c:0e
